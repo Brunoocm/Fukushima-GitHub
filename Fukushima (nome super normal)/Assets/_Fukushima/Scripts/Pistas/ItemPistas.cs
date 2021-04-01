@@ -3,48 +3,54 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class ItemPistas : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler, IDragHandler
+public class ItemPistas : MonoBehaviour, IPointerClickHandler
 {
-    [SerializeField] private string name;
+    [SerializeField] private Transform slotsPivot;
 
+    [SerializeField] private GameObject[] slot;
 
-    [SerializeField] private Canvas canvas;
-
-    private RectTransform rectTransform;
-    private CanvasGroup canvasGroup;
-    void Awake()
-    {
-        rectTransform = GetComponent<RectTransform>();
-        canvasGroup = GetComponent<CanvasGroup>();
-    }
-
-    void Update()
+    public int numerPista;
+    // Start is called before the first frame update
+    void Start()
     {
         
     }
 
-
-
-    public void OnBeginDrag(PointerEventData eventData)
+    // Update is called once per frame
+    void Update()
     {
-        canvasGroup.blocksRaycasts = false;
-        canvasGroup.alpha = 0.6f;
-    }
-    public void OnDrag(PointerEventData eventData)
-    {
-        rectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor;
-    }
-    public void OnEndDrag(PointerEventData eventData)
-    {
-        canvasGroup.blocksRaycasts = true;
-        canvasGroup.alpha = 1;
+        slot = new GameObject[slotsPivot.transform.childCount];
+        for (int i = 0; i < slotsPivot.transform.childCount; i++)
+        {
+            slot[i] = slotsPivot.transform.GetChild(i).gameObject;
 
+        }
 
-    }
-    public void OnPointerDown(PointerEventData eventData)
-    {
-        Debug.Log("OnPointerDown");
+       
     }
 
+    public void SetarNumber()
+    {
+      
+    }
 
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        if (slot[0].gameObject.GetComponent<SlotPistas>().isSet)
+        {
+            slot[0].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
+        }
+        else if (slot[1].gameObject.GetComponent<SlotPistas>().isSet)
+        {
+            slot[1].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
+        }
+        else if (slot[2].gameObject.GetComponent<SlotPistas>().isSet)
+        {
+            slot[2].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
+        }
+        else
+        {
+
+        }
+    }
 }
