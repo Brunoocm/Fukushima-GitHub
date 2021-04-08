@@ -44,7 +44,6 @@ public class Mouse : MonoBehaviour
     {
         if (!click)
         {
-            maoCaderno.SetActive(false);
             float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
             float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
 
@@ -53,6 +52,8 @@ public class Mouse : MonoBehaviour
 
             transform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
             playerBody.Rotate(Vector3.up * mouseX);
+
+            maoCaderno.SetActive(false);
         }
         else
         {
