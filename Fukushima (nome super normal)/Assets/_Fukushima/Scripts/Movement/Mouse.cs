@@ -6,12 +6,14 @@ public class Mouse : MonoBehaviour
 {
     public float mouseSensitivity = 100f;
     private float sensitivity;
-
-    public Transform playerBody;
-
     private float xRotation = 0f;
 
     private bool click;
+
+    public Transform playerBody;
+    public GameObject maoCaderno;
+   
+
 
     void Start()
     {
@@ -33,7 +35,7 @@ public class Mouse : MonoBehaviour
             click = !click;
         }
 
-        if (click) Cursor.lockState = CursorLockMode.Confined;
+        if (click) Cursor.lockState = CursorLockMode.Confined; 
         if (!click) Cursor.lockState = CursorLockMode.Locked; 
 
     }
@@ -42,6 +44,7 @@ public class Mouse : MonoBehaviour
     {
         if (!click)
         {
+            maoCaderno.SetActive(false);
             float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
             float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
 
@@ -53,7 +56,7 @@ public class Mouse : MonoBehaviour
         }
         else
         {
-
+            maoCaderno.SetActive(true);
         }
     }
 }
