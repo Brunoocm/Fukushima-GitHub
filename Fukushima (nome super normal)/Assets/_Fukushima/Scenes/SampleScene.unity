@@ -502,8 +502,6 @@ MonoBehaviour:
   tooltipMessage: Precisa de Chave
   hasKey: 0
   item: {fileID: 11400000, guid: a956062cee2117e479ece81611af24d1, type: 2}
-  hasAnimator: 0
-  final: {fileID: 0}
 --- !u!65 &250220404
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -920,8 +918,6 @@ MonoBehaviour:
   tooltipMessage: Precisa de Livro
   hasKey: 0
   item: {fileID: 11400000, guid: 05983275f1c30564a8e2d776943ff8a6, type: 2}
-  hasAnimator: 0
-  final: {fileID: 0}
 --- !u!65 &846809682
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1388,6 +1384,18 @@ PrefabInstance:
     - target: {fileID: 1470751580683984, guid: 85dfab9623c67784fa7894de63cd1604, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4198320945774578, guid: 85dfab9623c67784fa7894de63cd1604, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.382
+      objectReference: {fileID: 0}
+    - target: {fileID: 4198320945774578, guid: 85dfab9623c67784fa7894de63cd1604, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4198320945774578, guid: 85dfab9623c67784fa7894de63cd1604, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.913
       objectReference: {fileID: 0}
     - target: {fileID: 4354465822509128, guid: 85dfab9623c67784fa7894de63cd1604, type: 3}
       propertyPath: m_RootOrder
