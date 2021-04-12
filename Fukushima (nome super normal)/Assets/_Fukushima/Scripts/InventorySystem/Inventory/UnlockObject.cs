@@ -13,13 +13,13 @@ public class UnlockObject : InteractableBase
 
     private bool loop;
 
-    Animator anim; //gambiarra rapida
-    public bool hasAnimator; //gambiarra rapida
-    public GameObject final; //gambiarra rapida
+    //Animator anim; //gambiarra rapida
+    //public bool hasAnimator; //gambiarra rapida
+    //public GameObject final; //gambiarra rapida
 
     private void Start()
     {
-        if (hasAnimator) anim = gameObject.GetComponent<Animator>();
+        //if (hasAnimator) anim = gameObject.GetComponent<Animator>();
     }
 
     public void Update()
@@ -39,17 +39,17 @@ public class UnlockObject : InteractableBase
                 loop = false;
             }
 
-            if(hasAnimator)//gambiarra rapida
-            {
-                anim.SetTrigger("AtivarAnim");//gambiarra rapida
-                final.SetActive(true);//gambiarra rapida
+            //if(hasAnimator)//gambiarra rapida
+            //{
+            //    anim.SetTrigger("AtivarAnim");//gambiarra rapida
+            //    final.SetActive(true);//gambiarra rapida
 
-            }
-            else//gambiarra rapida
-            {
-                Destroy(gameObject);//gambiarra rapida
+            //}
+            //else//gambiarra rapida
+            //{
+            //    Destroy(gameObject);//gambiarra rapida
 
-            }
+            //}
         }
         else
         {

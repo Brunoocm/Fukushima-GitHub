@@ -136,6 +136,9 @@ public class InteractionController : MonoBehaviour
                 {
                     interactionData.Interact();
                     m_interacting = false;
+
+                    m_holdTimer = 0f;
+                    uiPanel.UpdateProgressBar(0f);
                 }
             }
             else
