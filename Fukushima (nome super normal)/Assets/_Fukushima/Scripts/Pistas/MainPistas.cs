@@ -16,58 +16,96 @@ public class MainPistas : MonoBehaviour
     [SerializeField] private  GameObject[] escritorioMarido;
     [SerializeField] private  GameObject[] casa;
 
-
-    private int pistasInt;
-
-
+    static bool mainEscritorioMarido, mainEscritorioDelegado, mainQuartel, mainCasa;
     void Update()
     {
+        Lugares();
+        print(mainEscritorioMarido);
+        print(mainEscritorioDelegado);
+        print(mainQuartel);
+        print(mainCasa);
+    }
 
-        escritorioDelegado = new GameObject[MissionEscritorioDelegado.transform.childCount];
-        for (int i = 0; i < MissionEscritorioDelegado.transform.childCount; i++)
-        {
-            escritorioDelegado[i] = MissionEscritorioDelegado.transform.GetChild(i).gameObject;
-            
-            //parque[i] = gameObject.GetComponent<SlotPistas>();
-        }
-        if (escritorioDelegado[0].gameObject.GetComponent<SlotPistas>().correct == true) print("parqueA");
-        if (escritorioDelegado[1].gameObject.GetComponent<SlotPistas>().correct == true) print("parqueb");
-        if (escritorioDelegado[2].gameObject.GetComponent<SlotPistas>().correct == true) print("parquec");
-
-
-        quartelG = new GameObject[MissionQuartelG.transform.childCount];
-        for (int i = 0; i < MissionQuartelG.transform.childCount; i++)
-        {
-            quartelG[i] = MissionQuartelG.transform.GetChild(i).gameObject;
-        }
-        if (quartelG[0].gameObject.GetComponent<SlotPistas>().correct == true) print("quartelGA");
-        if (quartelG[1].gameObject.GetComponent<SlotPistas>().correct == true) print("quartelGb");
-        if (quartelG[2].gameObject.GetComponent<SlotPistas>().correct == true) print("quartelGc");
-
+    void Lugares()
+    {
+        mainEscritorioMarido = BoolEscritorioMarido();
+        mainEscritorioDelegado = BoolEscritorioDelegado();
+        mainQuartel = BoolQuartelG();
+        mainCasa = BoolCasa();
+    }
+    private bool BoolEscritorioMarido()
+    {
         escritorioMarido = new GameObject[MissionEscritorioMarido.transform.childCount];
+
         for (int i = 0; i < MissionEscritorioMarido.transform.childCount; i++)
         {
             escritorioMarido[i] = MissionEscritorioMarido.transform.GetChild(i).gameObject;
-        }
-        if (escritorioMarido[0].gameObject.GetComponent<SlotPistas>().correct == true) print("escritorioA");
-        if (escritorioMarido[1].gameObject.GetComponent<SlotPistas>().correct == true) print("escritoriob");
-        if (escritorioMarido[2].gameObject.GetComponent<SlotPistas>().correct == true) print("escritorioc");
 
+            if (escritorioMarido[i].gameObject.GetComponent<SlotPistas>().correct == false)
+            {
+                return false;
+
+            }
+
+        }
+        return true;
+
+    }
+    private bool BoolEscritorioDelegado()
+    {
+        escritorioDelegado = new GameObject[MissionEscritorioDelegado.transform.childCount];
+
+        for (int i = 0; i < MissionEscritorioDelegado.transform.childCount; i++)
+        {
+            escritorioDelegado[i] = MissionEscritorioDelegado.transform.GetChild(i).gameObject;
+
+            if (escritorioDelegado[i].gameObject.GetComponent<SlotPistas>().correct == false)
+            {
+                return false;
+
+            }
+
+        }
+        return true;
+
+    }
+
+    private bool BoolQuartelG()
+    {
+        quartelG = new GameObject[MissionQuartelG.transform.childCount];
+
+        for (int i = 0; i < MissionQuartelG.transform.childCount; i++)
+        {
+            quartelG[i] = MissionQuartelG.transform.GetChild(i).gameObject;
+
+            if (quartelG[i].gameObject.GetComponent<SlotPistas>().correct == false)
+            {
+                return false;
+
+            }
+
+        }
+        return true;
+
+    }
+    private bool BoolCasa()
+    {
         casa = new GameObject[MissionCasa.transform.childCount];
+
         for (int i = 0; i < MissionCasa.transform.childCount; i++)
         {
             casa[i] = MissionCasa.transform.GetChild(i).gameObject;
+
+            if (casa[i].gameObject.GetComponent<SlotPistas>().correct == false)
+            {
+                return false;
+
+            }
+
         }
-        if (casa[0].gameObject.GetComponent<SlotPistas>().correct == true) print("casaA");
-        if (casa[1].gameObject.GetComponent<SlotPistas>().correct == true) print("casab");
-        if (casa[2].gameObject.GetComponent<SlotPistas>().correct == true) print("casac");
+        return true;
 
     }
 
-
-    public void SetSlot(string name)
-    {
-
-    }
 }
 
