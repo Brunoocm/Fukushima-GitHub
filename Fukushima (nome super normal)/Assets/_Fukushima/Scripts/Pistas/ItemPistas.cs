@@ -36,21 +36,21 @@ public class ItemPistas : MonoBehaviour, IPointerClickHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (slot[0].gameObject.GetComponent<SlotPistas>().isSet)
-        {
-            slot[0].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
-        }
-        else if (slot[1].gameObject.GetComponent<SlotPistas>().isSet)
-        {
-            slot[1].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
-        }
-        else if (slot[2].gameObject.GetComponent<SlotPistas>().isSet)
-        {
-            slot[2].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
-        }
-        else
-        {
+        //if (slot[0].gameObject.GetComponent<SlotPistas>().isSet)
+        //{
+        //    slot[0].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
+        //}
+        //else if (slot[1].gameObject.GetComponent<SlotPistas>().isSet)
+        //{
+        //    slot[1].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
+        //}
+        //else if (slot[2].gameObject.GetComponent<SlotPistas>().isSet)
+        //{
+        //    slot[2].gameObject.GetComponent<SlotPistas>().correctNumber = numerPista;
+        //}
+        //else
+        //{
 
-        }
+        //}
     }
 }

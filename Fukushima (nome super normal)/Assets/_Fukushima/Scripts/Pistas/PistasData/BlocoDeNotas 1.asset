@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 863ffce1d1a3ceb44a092b40e0da2ff8, type: 3}
+  m_Name: BlocoDeNotas 1
+  m_EditorClassIdentifier: 
+  objectImage: {fileID: 21300000, guid: f04d79e7807ac0d45b2d472ba14a1c09, type: 3}
+  pistaName: BlocoDeNotas
+  escritorioMarido: 0
+  escritorioDelegado: 1
+  quartel: 0
+  casa: 0

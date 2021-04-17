@@ -22,6 +22,7 @@ public class MainPistas : MonoBehaviour
 
     void Update()
     {
+
         parque = new GameObject[MissionParque.transform.childCount];
         for (int i = 0; i < MissionParque.transform.childCount; i++)
         {
@@ -29,9 +30,9 @@ public class MainPistas : MonoBehaviour
             
             //parque[i] = gameObject.GetComponent<SlotPistas>();
         }
-        if (parque[0].gameObject.GetComponent<SlotPistas>().correctNumber == 1) print("parqueA");
-        if (parque[1].gameObject.GetComponent<SlotPistas>().correctNumber == 2) print("parqueb");
-        if (parque[2].gameObject.GetComponent<SlotPistas>().correctNumber == 3) print("parquec");
+        if (parque[0].gameObject.GetComponent<SlotPistas>().correct == true) print("parqueA");
+        if (parque[1].gameObject.GetComponent<SlotPistas>().correct == true) print("parqueb");
+        if (parque[2].gameObject.GetComponent<SlotPistas>().correct == true) print("parquec");
 
 
         quartelG = new GameObject[MissionQuartelG.transform.childCount];
@@ -39,27 +40,27 @@ public class MainPistas : MonoBehaviour
         {
             quartelG[i] = MissionQuartelG.transform.GetChild(i).gameObject;
         }
-        if (quartelG[0].gameObject.GetComponent<SlotPistas>().correctNumber == 4) print("quartelGA");
-        if (quartelG[1].gameObject.GetComponent<SlotPistas>().correctNumber == 5) print("quartelGb");
-        if (quartelG[2].gameObject.GetComponent<SlotPistas>().correctNumber == 6) print("quartelGc");
+        if (quartelG[0].gameObject.GetComponent<SlotPistas>().correct == true) print("quartelGA");
+        if (quartelG[1].gameObject.GetComponent<SlotPistas>().correct == true) print("quartelGb");
+        if (quartelG[2].gameObject.GetComponent<SlotPistas>().correct == true) print("quartelGc");
 
         escritorio = new GameObject[MissionEscritorio.transform.childCount];
         for (int i = 0; i < MissionEscritorio.transform.childCount; i++)
         {
             escritorio[i] = MissionEscritorio.transform.GetChild(i).gameObject;
         }
-        if (escritorio[0].gameObject.GetComponent<SlotPistas>().correctNumber == 7) print("escritorioA");
-        if (escritorio[1].gameObject.GetComponent<SlotPistas>().correctNumber == 8) print("escritoriob");
-        if (escritorio[2].gameObject.GetComponent<SlotPistas>().correctNumber == 9) print("escritorioc");
+        if (escritorio[0].gameObject.GetComponent<SlotPistas>().correct == true) print("escritorioA");
+        if (escritorio[1].gameObject.GetComponent<SlotPistas>().correct == true) print("escritoriob");
+        if (escritorio[2].gameObject.GetComponent<SlotPistas>().correct == true) print("escritorioc");
 
         casa = new GameObject[MissionCasa.transform.childCount];
         for (int i = 0; i < MissionCasa.transform.childCount; i++)
         {
             casa[i] = MissionCasa.transform.GetChild(i).gameObject;
         }
-        if (casa[0].gameObject.GetComponent<SlotPistas>().correctNumber == 10) print("casaA");
-        if (casa[1].gameObject.GetComponent<SlotPistas>().correctNumber == 11) print("casab");
-        if (casa[2].gameObject.GetComponent<SlotPistas>().correctNumber == 12) print("casac");
+        if (casa[0].gameObject.GetComponent<SlotPistas>().correct == true) print("casaA");
+        if (casa[1].gameObject.GetComponent<SlotPistas>().correct == true) print("casab");
+        if (casa[2].gameObject.GetComponent<SlotPistas>().correct == true) print("casac");
 
     }
 
