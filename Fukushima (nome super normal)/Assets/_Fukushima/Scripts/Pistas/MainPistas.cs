@@ -20,10 +20,7 @@ public class MainPistas : MonoBehaviour
     void Update()
     {
         Lugares();
-        print(mainEscritorioMarido);
-        print(mainEscritorioDelegado);
-        print(mainQuartel);
-        print(mainCasa);
+ 
     }
 
     void Lugares()
