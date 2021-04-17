@@ -47,14 +47,7 @@ public class PistaMain : MonoBehaviour, IPointerClickHandler
         for (int i = 0; i < pistaScripts.Length; i++)
         {
             pistaScripts[i].m_active = false;
-            print("tornou falso");
         }
         m_active = true;
-    }
-
-    public void Local()
-    {
-      
-
     }
 }

@@ -5,15 +5,15 @@ using UnityEngine.UI;
 
 public class MainPistas : MonoBehaviour
 {
-    [SerializeField] private Transform MissionParque;
+    [SerializeField] private Transform MissionEscritorioDelegado;
     [SerializeField] private Transform MissionQuartelG;
-    [SerializeField] private Transform MissionEscritorio;
+    [SerializeField] private Transform MissionEscritorioMarido;
     [SerializeField] private Transform MissionCasa;
 
 
-    [SerializeField] private  GameObject[] parque;
+    [SerializeField] private  GameObject[] escritorioDelegado;
     [SerializeField] private  GameObject[] quartelG;
-    [SerializeField] private  GameObject[] escritorio;
+    [SerializeField] private  GameObject[] escritorioMarido;
     [SerializeField] private  GameObject[] casa;
 
 
@@ -23,16 +23,16 @@ public class MainPistas : MonoBehaviour
     void Update()
     {
 
-        parque = new GameObject[MissionParque.transform.childCount];
-        for (int i = 0; i < MissionParque.transform.childCount; i++)
+        escritorioDelegado = new GameObject[MissionEscritorioDelegado.transform.childCount];
+        for (int i = 0; i < MissionEscritorioDelegado.transform.childCount; i++)
         {
-            parque[i] = MissionParque.transform.GetChild(i).gameObject;
+            escritorioDelegado[i] = MissionEscritorioDelegado.transform.GetChild(i).gameObject;
             
             //parque[i] = gameObject.GetComponent<SlotPistas>();
         }
-        if (parque[0].gameObject.GetComponent<SlotPistas>().correct == true) print("parqueA");
-        if (parque[1].gameObject.GetComponent<SlotPistas>().correct == true) print("parqueb");
-        if (parque[2].gameObject.GetComponent<SlotPistas>().correct == true) print("parquec");
+        if (escritorioDelegado[0].gameObject.GetComponent<SlotPistas>().correct == true) print("parqueA");
+        if (escritorioDelegado[1].gameObject.GetComponent<SlotPistas>().correct == true) print("parqueb");
+        if (escritorioDelegado[2].gameObject.GetComponent<SlotPistas>().correct == true) print("parquec");
 
 
         quartelG = new GameObject[MissionQuartelG.transform.childCount];
@@ -44,14 +44,14 @@ public class MainPistas : MonoBehaviour
         if (quartelG[1].gameObject.GetComponent<SlotPistas>().correct == true) print("quartelGb");
         if (quartelG[2].gameObject.GetComponent<SlotPistas>().correct == true) print("quartelGc");
 
-        escritorio = new GameObject[MissionEscritorio.transform.childCount];
-        for (int i = 0; i < MissionEscritorio.transform.childCount; i++)
+        escritorioMarido = new GameObject[MissionEscritorioMarido.transform.childCount];
+        for (int i = 0; i < MissionEscritorioMarido.transform.childCount; i++)
         {
-            escritorio[i] = MissionEscritorio.transform.GetChild(i).gameObject;
+            escritorioMarido[i] = MissionEscritorioMarido.transform.GetChild(i).gameObject;
         }
-        if (escritorio[0].gameObject.GetComponent<SlotPistas>().correct == true) print("escritorioA");
-        if (escritorio[1].gameObject.GetComponent<SlotPistas>().correct == true) print("escritoriob");
-        if (escritorio[2].gameObject.GetComponent<SlotPistas>().correct == true) print("escritorioc");
+        if (escritorioMarido[0].gameObject.GetComponent<SlotPistas>().correct == true) print("escritorioA");
+        if (escritorioMarido[1].gameObject.GetComponent<SlotPistas>().correct == true) print("escritoriob");
+        if (escritorioMarido[2].gameObject.GetComponent<SlotPistas>().correct == true) print("escritorioc");
 
         casa = new GameObject[MissionCasa.transform.childCount];
         for (int i = 0; i < MissionCasa.transform.childCount; i++)

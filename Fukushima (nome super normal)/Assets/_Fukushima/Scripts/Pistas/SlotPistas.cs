@@ -51,9 +51,6 @@ public class SlotPistas : MonoBehaviour, IPointerClickHandler
                     correct = false;
                 }
               
-
-                print(correct);
-                print("setou image");
             }
         }
        
