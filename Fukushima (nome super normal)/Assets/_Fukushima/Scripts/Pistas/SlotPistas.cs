@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using TMPro;
 
 public class SlotPistas : MonoBehaviour, IPointerClickHandler
 {
@@ -12,6 +13,8 @@ public class SlotPistas : MonoBehaviour, IPointerClickHandler
     [Header("Values")]
     public bool isSet;
     public bool correct;
+
+
 
     Image image;
 

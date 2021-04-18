@@ -5,13 +5,13 @@ using UnityEngine.UI;
 
 [CreateAssetMenu(fileName = "pista", menuName = "Inventory System/ Pista")]
 public class ScriptablePistas : ScriptableObject
-{
+{  
+    public string pistaName;
+    [TextArea(10, 10)]
+    public string description;
 
     public Sprite objectImage;
-    public string pistaName;
-
-  
-    public bool escritorioMarido, escritorioDelegado, quartel, casa; 
+    public bool escritorioMarido, escritorioDelegado, quartel, casa;
 
 
 }

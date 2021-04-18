@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 863ffce1d1a3ceb44a092b40e0da2ff8, type: 3}
   m_Name: BlocoDeNotas 1
   m_EditorClassIdentifier: 
-  objectImage: {fileID: 21300000, guid: f04d79e7807ac0d45b2d472ba14a1c09, type: 3}
   pistaName: BlocoDeNotas
+  description: 'Nome: Teste ei
+
+    Bloco de teste olha aqui eu eu eu.'
+  objectImage: {fileID: 21300000, guid: 86fcb50eab39b3f469edf0b7ae8d8145, type: 3}
   escritorioMarido: 0
   escritorioDelegado: 1
   quartel: 0
