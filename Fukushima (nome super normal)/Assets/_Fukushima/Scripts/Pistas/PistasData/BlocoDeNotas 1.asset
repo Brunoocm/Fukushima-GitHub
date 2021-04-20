@@ -13,10 +13,8 @@ MonoBehaviour:
   m_Name: BlocoDeNotas 1
   m_EditorClassIdentifier: 
   pistaName: BlocoDeNotas
-  description: 'Nome: Teste ei
-
-    Bloco de teste olha aqui eu eu eu.'
-  objectImage: {fileID: 21300000, guid: 86fcb50eab39b3f469edf0b7ae8d8145, type: 3}
+  description: "Nome: Chave do escrit\xF3rio\nescontrada no quarto principal."
+  objectImage: {fileID: 21300000, guid: 9e76eb6030442d3498378c33554e9ae9, type: 3}
   escritorioMarido: 0
   escritorioDelegado: 1
   quartel: 0
