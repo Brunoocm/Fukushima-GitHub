@@ -7,19 +7,8 @@ using UnityEngine.UI;
 
 public class MenuScript : MonoBehaviour
 {
-    public GameObject loadScreen;
-
-    public Slider slider;
-
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
-    }
+    [SerializeField]private GameObject loadScreen;
+    [SerializeField] private Slider slider;
 
     public void ChangeScene(string name)
     {
