@@ -59,9 +59,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: Lemon Tuesday novoSDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: -2106942425
   material: {fileID: 4403401869731937902}
-  materialHashCode: 0
+  materialHashCode: 82380967
   m_Version: 1.1.0
   m_SourceFontFileGUID: ccd16d23c8d88084cb4b6edd9bec130d
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: ccd16d23c8d88084cb4b6edd9bec130d, type: 3}
@@ -1269,9 +1269,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
