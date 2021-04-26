@@ -27,7 +27,7 @@ public class MainPistas : MonoBehaviour
     {
         mainEscritorioMarido = BoolEscritorioMarido();
         mainEscritorioDelegado = BoolEscritorioDelegado();
-        mainQuartel = BoolQuartelG();
+        //mainQuartel = BoolQuartelG();
         mainCasa = BoolCasa();
     }
     private bool BoolEscritorioMarido()
@@ -67,24 +67,24 @@ public class MainPistas : MonoBehaviour
 
     }
 
-    private bool BoolQuartelG()
-    {
-        quartelG = new GameObject[MissionQuartelG.transform.childCount];
+    //private bool BoolQuartelG()
+    //{
+    //    quartelG = new GameObject[MissionQuartelG.transform.childCount];
 
-        for (int i = 0; i < MissionQuartelG.transform.childCount; i++)
-        {
-            quartelG[i] = MissionQuartelG.transform.GetChild(i).gameObject;
+    //    for (int i = 0; i < MissionQuartelG.transform.childCount; i++)
+    //    {
+    //        quartelG[i] = MissionQuartelG.transform.GetChild(i).gameObject;
 
-            if (quartelG[i].gameObject.GetComponent<SlotPistas>().correct == false)
-            {
-                return false;
+    //        if (quartelG[i].gameObject.GetComponent<SlotPistas>().correct == false)
+    //        {
+    //            return false;
 
-            }
+    //        }
 
-        }
-        return true;
+    //    }
+    //    return true;
 
-    }
+    //}
     private bool BoolCasa()
     {
         casa = new GameObject[MissionCasa.transform.childCount];

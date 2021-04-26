@@ -15,7 +15,7 @@ public class PistaMain : MonoBehaviour, IPointerClickHandler
 
     private bool m_active;
     private string m_pistaName;
-    public bool m_escritorioMarido, m_escritorioDelegado, m_quartel, m_casa;
+    public bool m_motivo, m_acontecendo, m_quartel, m_assassino;
 
 
 
@@ -25,10 +25,10 @@ public class PistaMain : MonoBehaviour, IPointerClickHandler
 
     private void Awake()
     {
-        m_escritorioMarido = pista.escritorioMarido;
-        m_escritorioDelegado = pista.escritorioDelegado;
+        m_motivo = pista.motivo;
+        m_acontecendo = pista.acontecendo;
         m_quartel = pista.quartel;
-        m_casa = pista.casa;
+        m_assassino = pista.assassino;
 
         if (objDescription != null) 
         { 
