@@ -14,7 +14,7 @@ public class Lanterna : MonoBehaviour
 
     void Start()
     {
-        luz.intensity = 0;
+        //luz.intensity = 0;
     }
 
     void Update()
@@ -27,8 +27,8 @@ public class Lanterna : MonoBehaviour
 
     private void AtualizarLuz()  
     {
-        luz.color = cor;
-        luz.spotAngle = spotAngle;
-        luz.innerSpotAngle = innerSpotAngle;
+        //luz.color = cor;
+        //luz.spotAngle = spotAngle;
+        //luz.innerSpotAngle = innerSpotAngle;
     }
 }

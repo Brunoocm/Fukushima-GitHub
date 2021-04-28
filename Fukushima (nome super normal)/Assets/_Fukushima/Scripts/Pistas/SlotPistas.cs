@@ -7,7 +7,7 @@ using TMPro;
 
 public class SlotPistas : MonoBehaviour, IPointerClickHandler
 {
-    public bool isEscritorioMarido, isEscritorioDelegado, isQuartel, isCasa;
+    public bool Acontecendo, Motivo, Assassino, isQuartel;
 
 
     [Header("Values")]
@@ -25,7 +25,7 @@ public class SlotPistas : MonoBehaviour, IPointerClickHandler
 
     void Update()
     {
-        if(isEscritorioMarido)
+        if(Motivo)
         {
 
         }
@@ -45,10 +45,10 @@ public class SlotPistas : MonoBehaviour, IPointerClickHandler
             {
                 image.sprite = pistaScripts[i].pistaImage.gameObject.GetComponent<Image>().sprite;
 
-                if (pistaScripts[i].m_escritorioMarido && isEscritorioMarido) correct = true;
-                else if (pistaScripts[i].m_escritorioDelegado && isEscritorioDelegado) correct = true;
+                if (pistaScripts[i].m_motivo && Motivo) correct = true;
+                else if (pistaScripts[i].m_acontecendo && Acontecendo) correct = true;
                 else if(pistaScripts[i].m_quartel && isQuartel) correct = true;
-                else if(pistaScripts[i].m_casa && isCasa) correct = true;
+                else if(pistaScripts[i].m_assassino && Assassino) correct = true;
                 else
                 {
                     correct = false;

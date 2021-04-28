@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 9211e0560c16b82a19077f5cb4e48113
-    second: {fileID: 2800000, guid: 42033c20714bb0241a6e74d5fc16d787, type: 3}
+    second: {fileID: 2800000, guid: 5723776f218d86746b8b8cd717ba8f86, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: abstract-modern-black-dynamic-wave-layer-background-and-texture-vector
-    second: {fileID: 2800000, guid: 322d73937a5423a4794bdfbbfad89c12, type: 3}
+    second: {fileID: 2800000, guid: d45453ff94d31b04db724a9550cb44be, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: parede-de-textura-moderna-branca_35076-1019
-    second: {fileID: 2800000, guid: b0f05b8a877e6a0438a3d1b622535d3b, type: 3}
+    second: {fileID: 2800000, guid: e2dccd5fcb478ce46a80e9fd99146ef6, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -49,7 +49,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.5
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -100,7 +100,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.5
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

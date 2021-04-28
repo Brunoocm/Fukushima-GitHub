@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1999234800749847203}
   - component: {fileID: 3175441121686072582}
   - component: {fileID: 861763858418948556}
+  - component: {fileID: 5854923756504852259}
   m_Layer: 0
   m_Name: Parede casa tile
   m_TagString: Untagged
@@ -85,3 +86,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &5854923756504852259
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1221994860408174617}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.016131863, y: 0.010014508, z: 0.010012798}
+  m_Center: {x: 0.00306593, y: 0.0000044361223, z: 0.000006397722}

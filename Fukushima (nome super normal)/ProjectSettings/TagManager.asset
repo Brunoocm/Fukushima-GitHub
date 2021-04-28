@@ -6,6 +6,7 @@ TagManager:
   tags:
   - InventorySystem
   - DescriptionTag
+  - Lampada
   layers:
   - Default
   - TransparentFX
@@ -20,8 +21,8 @@ TagManager:
   - Mao
   - Caderno
   - Capsula
-  - 
-  - 
+  - Lampada
+  - Walls
   - 
   - 
   - 

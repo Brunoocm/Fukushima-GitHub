@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1172811992793024007}
   - component: {fileID: 2875955037172926882}
   - component: {fileID: 3807160054119784}
+  - component: {fileID: 6415525842214747031}
   m_Layer: 0
   m_Name: "ch\xE3o casa tile"
   m_TagString: Untagged
@@ -81,3 +82,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6415525842214747031
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949349349231123645}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.019999998, y: 0.019999998, z: 0.019999996}
+  m_Center: {x: 0.0000000027939677, y: -9.313226e-10, z: -0.0000000020954758}
