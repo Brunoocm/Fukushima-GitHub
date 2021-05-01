@@ -7,6 +7,7 @@ public class PickUpPistas : InteractableBase
 
     [Header("Inventory Data")]
     public GameObject prefabPistas;
+    public InteractionUIPanel UIText;
 
 
     private Camera mainCam;
@@ -93,7 +94,7 @@ public class PickUpPistas : InteractableBase
             clickedObject.transform.Rotate(Vector3.up, -xAxis, Space.World);
             clickedObject.transform.Rotate(Vector3.right, yAxis, Space.World);
 
-            //UIText.ResetUI();
+            UIText.ResetUI();
         }
 
     }
