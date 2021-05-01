@@ -18,7 +18,7 @@ MonoBehaviour:
 
     escontrada no quarto principal.'
   objectImage: {fileID: 21300000, guid: 9e76eb6030442d3498378c33554e9ae9, type: 3}
-  acontecendo: 1
+  acontecendo: 0
   motivo: 0
-  assassino: 0
+  assassino: 1
   quartel: 0

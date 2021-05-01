@@ -34,7 +34,6 @@ public class SlotPistas : MonoBehaviour, IPointerClickHandler
     public void OnPointerClick(PointerEventData eventData)
     {
         isSet = true;
-        image.color = Color.green;
 
         PistaMain[] pistaScripts = FindObjectsOfType(typeof(PistaMain)) as PistaMain[];
 
@@ -65,7 +64,6 @@ public class SlotPistas : MonoBehaviour, IPointerClickHandler
     public void Desativar()
     {
         isSet = false;
-        image.color = Color.red;
 
     }
 }
