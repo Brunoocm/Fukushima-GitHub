@@ -7,6 +7,8 @@ public class EventsObject : InteractableBase
 {
     [SerializeField] private UnityEvent m_Event;
 
+    public AudioClip clipTrilha;
+
     private void Start()
     {
     }
@@ -21,5 +23,10 @@ public class EventsObject : InteractableBase
         m_Event.Invoke();
     }
 
+
+    public void AudioTroca()
+    {
+        GetComponent<AudioSource>().clip = clipTrilha;
+    }
 
 }

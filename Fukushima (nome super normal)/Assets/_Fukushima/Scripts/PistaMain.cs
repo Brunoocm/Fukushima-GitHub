@@ -23,7 +23,7 @@ public class PistaMain : MonoBehaviour, IPointerClickHandler
     [SerializeField] TMP_Text[] textDescription;
     [SerializeField] Image[] imageDescription;
 
-    private void Awake()
+    private void Start()
     {
         m_motivo = pista.motivo;
         m_acontecendo = pista.acontecendo;
@@ -44,14 +44,10 @@ public class PistaMain : MonoBehaviour, IPointerClickHandler
             imageDescription[i] = objDescription[i].GetComponentInChildren<Image>();
             
         }
-
-    }
-    void Start()
-    {
         pistaImage.GetComponent<Image>().sprite = pista.objectImage;
         m_pistaName = pista.pistaName;
-
     }
+
 
     void Update()
     {

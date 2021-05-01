@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 863ffce1d1a3ceb44a092b40e0da2ff8, type: 3}
-  m_Name: BlocoDeNotas 1
+  m_Name: Carta De Condolencias
   m_EditorClassIdentifier: 
-  pistaName: BlocoDeNotas
-  description: "Nome: Chave do escrit\xF3rio\nescontrada no quarto principal."
-  objectImage: {fileID: 21300000, guid: 9e76eb6030442d3498378c33554e9ae9, type: 3}
-  escritorioMarido: 0
-  escritorioDelegado: 1
+  pistaName: "Carta De Condol\xEAncias"
+  description: "Nome: Carta De Condol\xEAncias\n\nCarta enviada pelo delegado."
+  objectImage: {fileID: 21300000, guid: aa4a4b4630cda9241bb75c4b2f03ce29, type: 3}
+  acontecendo: 0
+  motivo: 0
+  assassino: 1
   quartel: 0
-  casa: 0
