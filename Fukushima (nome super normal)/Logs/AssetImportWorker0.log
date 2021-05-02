@@ -1923,3 +1923,1715 @@ Mono: successfully reloaded assembly
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 137.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3054.
+Total: 5.754500 ms (FindLiveObjects: 0.354900 ms CreateObjectMapping: 0.078800 ms MarkObjects: 2.936600 ms  DeleteObjects: 2.381500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 137.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3056.
+Total: 4.672400 ms (FindLiveObjects: 0.525500 ms CreateObjectMapping: 0.069700 ms MarkObjects: 2.685000 ms  DeleteObjects: 1.389100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001587 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 137.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3058.
+Total: 5.393300 ms (FindLiveObjects: 0.469600 ms CreateObjectMapping: 0.121500 ms MarkObjects: 3.197100 ms  DeleteObjects: 1.602500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001619 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.7 MB.
+System memory in use after: 137.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3060.
+Total: 4.906300 ms (FindLiveObjects: 0.354200 ms CreateObjectMapping: 0.089300 ms MarkObjects: 2.955500 ms  DeleteObjects: 1.505100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001546 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 137.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3062.
+Total: 12.618900 ms (FindLiveObjects: 3.204000 ms CreateObjectMapping: 0.758800 ms MarkObjects: 6.387500 ms  DeleteObjects: 2.261200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.627 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 137.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3064.
+Total: 4.637400 ms (FindLiveObjects: 0.354500 ms CreateObjectMapping: 0.086100 ms MarkObjects: 2.778800 ms  DeleteObjects: 1.415700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002735 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 137.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3066.
+Total: 6.942900 ms (FindLiveObjects: 0.603500 ms CreateObjectMapping: 0.244900 ms MarkObjects: 4.426000 ms  DeleteObjects: 1.665400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8182.123806 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe
+  artifactKey: Guid(734ecceabf7132c49ae2f8a2ea8772d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe using Guid(734ecceabf7132c49ae2f8a2ea8772d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a3cdb9a80b348f9c2b17e2e07b1f3b') in 0.018905 seconds
+  Import took 0.068484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.107258 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source
+  artifactKey: Guid(89b711bd1057dff40b1874de4ca88f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source using Guid(89b711bd1057dff40b1874de4ca88f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf1f68ae5222f65bd06a6ee1bb1187b') in 0.020718 seconds
+  Import took 0.044163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.226955 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K.zip
+  artifactKey: Guid(565801356a6f9344dab138e3b5ba8a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K.zip using Guid(565801356a6f9344dab138e3b5ba8a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e5ece98290785a680ae2429b86782b') in 0.025034 seconds
+  Import took 0.041167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.808978 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K
+  artifactKey: Guid(15ca0f9aa4eeaa248a08f271cf4895dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K using Guid(15ca0f9aa4eeaa248a08f271cf4895dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da4b8815312444526321a7872b2a45d') in 0.002534 seconds
+  Import took 0.043566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.486843 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.fbx
+  artifactKey: Guid(725dcb2d451e5ae47b28082e07d0580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.fbx using Guid(725dcb2d451e5ae47b28082e07d0580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8884385be594960e9950fb2940104b77') in 0.470840 seconds
+  Import took 0.502457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.634427 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.fbx
+  artifactKey: Guid(725dcb2d451e5ae47b28082e07d0580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.fbx using Guid(725dcb2d451e5ae47b28082e07d0580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5c79cfa2b574e601811b54a40950d8') in 0.087689 seconds
+  Import took 0.114286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.524518 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.fbx
+  artifactKey: Guid(725dcb2d451e5ae47b28082e07d0580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.fbx using Guid(725dcb2d451e5ae47b28082e07d0580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edf70421cff63686111168b983ce6eab') in 0.082099 seconds
+  Import took 0.107133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.972642 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.prefab
+  artifactKey: Guid(c3048bdac0b43cc47b219a81a336654d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.prefab using Guid(c3048bdac0b43cc47b219a81a336654d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6737a1b238cf1747d2890bd581ab58c') in 0.024171 seconds
+  Import took 0.045964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.857432 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.prefab
+  artifactKey: Guid(c3048bdac0b43cc47b219a81a336654d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.prefab using Guid(c3048bdac0b43cc47b219a81a336654d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ccb0d320c989ba93b7a44110a30ed0') in 0.011850 seconds
+  Import took 0.020036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.837857 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe_Safe_BaseColor.tif
+  artifactKey: Guid(9babbdb0b02f7e74db256997dcbdc904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe_Safe_BaseColor.tif using Guid(9babbdb0b02f7e74db256997dcbdc904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebd72d376c0e5b9fb594bb5a470122b') in 0.044794 seconds
+  Import took 0.072386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017834 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe_Safe_BaseColor.tif
+  artifactKey: Guid(9babbdb0b02f7e74db256997dcbdc904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe_Safe_BaseColor.tif using Guid(9babbdb0b02f7e74db256997dcbdc904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebd72d376c0e5b9fb594bb5a470122b') in 0.028592 seconds
+  Import took 0.035719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.671893 seconds.
+  path: Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.fbx
+  artifactKey: Guid(725dcb2d451e5ae47b28082e07d0580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/old-iron-safe/source/2K/LP_Safe.fbx using Guid(725dcb2d451e5ae47b28082e07d0580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc27af23b3712c1a8860f52fae6c628') in 0.082694 seconds
+  Import took 0.123847 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001727 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.260 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3151.
+Total: 4.080900 ms (FindLiveObjects: 0.346300 ms CreateObjectMapping: 0.067300 ms MarkObjects: 2.529600 ms  DeleteObjects: 1.135500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001803 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 143.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3153.
+Total: 9.085800 ms (FindLiveObjects: 1.312500 ms CreateObjectMapping: 0.489400 ms MarkObjects: 5.331200 ms  DeleteObjects: 1.947700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005849 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.492 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3155.
+Total: 4.366000 ms (FindLiveObjects: 0.358800 ms CreateObjectMapping: 0.074900 ms MarkObjects: 2.570700 ms  DeleteObjects: 1.359300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001467 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.096 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3157.
+Total: 9.189400 ms (FindLiveObjects: 0.511700 ms CreateObjectMapping: 0.103000 ms MarkObjects: 6.502300 ms  DeleteObjects: 2.070300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.072 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3159.
+Total: 9.262500 ms (FindLiveObjects: 2.890800 ms CreateObjectMapping: 0.725800 ms MarkObjects: 3.984600 ms  DeleteObjects: 1.654600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1798.996244 seconds.
+  path: Assets/_Fukushima/Scripts/InventorySystem/Inventory/EventsObject.cs
+  artifactKey: Guid(7a1bc782655241f428c9b074df3cc520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/InventorySystem/Inventory/EventsObject.cs using Guid(7a1bc782655241f428c9b074df3cc520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1a5917694a479bc957617fb4f77ccb') in 0.016773 seconds
+  Import took 0.045762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 292.243226 seconds.
+  path: Assets/_Fukushima/Animator/AnimatorCofre
+  artifactKey: Guid(f7bbe34f9a7cc5e40aad6a3b74e62c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Animator/AnimatorCofre using Guid(f7bbe34f9a7cc5e40aad6a3b74e62c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8727b5032d69dda87928691502079df') in 0.010129 seconds
+  Import took 0.034678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.653537 seconds.
+  path: Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim
+  artifactKey: Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim using Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe7fbc4637837a2d0f53d5ff6582ee8') in 0.017507 seconds
+  Import took 0.045084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028643 seconds.
+  path: Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim
+  artifactKey: Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim using Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe7fbc4637837a2d0f53d5ff6582ee8') in 0.002961 seconds
+  Import took 0.008490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.465612 seconds.
+  path: Assets/_Fukushima/Animator/AnimatorCofre/LP_Safe.controller
+  artifactKey: Guid(f41c90d69d6b17041979f0b76ff88daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Animator/AnimatorCofre/LP_Safe.controller using Guid(f41c90d69d6b17041979f0b76ff88daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e19575d17657c772c3c3fdf640d9269') in 0.007461 seconds
+  Import took 0.038802 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3161.
+Total: 8.201900 ms (FindLiveObjects: 0.492400 ms CreateObjectMapping: 0.110700 ms MarkObjects: 4.202100 ms  DeleteObjects: 3.394100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001388 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.070 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 143.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3163.
+Total: 9.629300 ms (FindLiveObjects: 1.292000 ms CreateObjectMapping: 0.871600 ms MarkObjects: 5.170300 ms  DeleteObjects: 2.292100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 301.171745 seconds.
+  path: Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim
+  artifactKey: Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim using Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38dcd7884290936574fce4f09e8d4a49') in 0.026653 seconds
+  Import took 0.032890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020157 seconds.
+  path: Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim
+  artifactKey: Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim using Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38dcd7884290936574fce4f09e8d4a49') in 0.004253 seconds
+  Import took 0.011065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.626502 seconds.
+  path: Assets/_Fukushima/Animator/AnimatorCofre/LP_Safe.controller
+  artifactKey: Guid(f41c90d69d6b17041979f0b76ff88daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Animator/AnimatorCofre/LP_Safe.controller using Guid(f41c90d69d6b17041979f0b76ff88daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35528a5963c4cf77ba3304c8150e902') in 0.005320 seconds
+  Import took 0.032069 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.242 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3165.
+Total: 4.607000 ms (FindLiveObjects: 0.362500 ms CreateObjectMapping: 0.104200 ms MarkObjects: 2.678800 ms  DeleteObjects: 1.459600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002109 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3167.
+Total: 5.589800 ms (FindLiveObjects: 0.497700 ms CreateObjectMapping: 0.235800 ms MarkObjects: 3.252600 ms  DeleteObjects: 1.601300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 191.296629 seconds.
+  path: Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim
+  artifactKey: Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Animator/AnimatorCofre/Aberto.anim using Guid(6a839cb723660da42b00fe38226ad1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15fa625f670b00f6dc5b84b186db1465') in 0.020467 seconds
+  Import took 0.028311 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006060 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.630 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3169.
+Total: 6.379900 ms (FindLiveObjects: 0.529800 ms CreateObjectMapping: 0.171500 ms MarkObjects: 3.545100 ms  DeleteObjects: 2.131100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.347 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3171.
+Total: 6.147900 ms (FindLiveObjects: 0.399200 ms CreateObjectMapping: 0.095000 ms MarkObjects: 3.187300 ms  DeleteObjects: 2.464200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 644.548567 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias 1.asset
+  artifactKey: Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias 1.asset using Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4105ef5085b50aedfe34e75e74838c') in 0.059869 seconds
+  Import took 0.081526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.616358 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista Dos Mortos.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista Dos Mortos.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509c70ebe29fb217bf330e1fc024fcb1') in 0.014595 seconds
+  Import took 0.020911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006084 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista Dos Mortos.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista Dos Mortos.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509c70ebe29fb217bf330e1fc024fcb1') in 0.003162 seconds
+  Import took 0.007448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.556309 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce58b755dacd0fd98f74a751e7b49c7') in 0.009128 seconds
+  Import took 0.036135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.563820 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '764d897e1d7c09dac01d36e9bcb20dd0') in 0.003328 seconds
+  Import took 0.014283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.994743 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias 1.asset
+  artifactKey: Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias 1.asset using Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86121ef8d77a886aea2ed730f7e719a6') in 0.003326 seconds
+  Import took 0.022258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.789260 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos 1.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos 1.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aae06d16701c259396c235dae840b89') in 0.008575 seconds
+  Import took 0.030926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.876920 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De envolvidos.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De envolvidos.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0323c90e3839b9157dbc0c75ecd988e') in 0.010988 seconds
+  Import took 0.042737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.351620 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De envolvidos.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De envolvidos.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eafd0deea9fb99ac9eb79282cfa29abd') in 0.003519 seconds
+  Import took 0.021293 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001412 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.269 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3173.
+Total: 6.658400 ms (FindLiveObjects: 0.493000 ms CreateObjectMapping: 0.164200 ms MarkObjects: 4.274600 ms  DeleteObjects: 1.701000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006411 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.158 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3175.
+Total: 4.489900 ms (FindLiveObjects: 0.349200 ms CreateObjectMapping: 0.072100 ms MarkObjects: 2.678800 ms  DeleteObjects: 1.387500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 504.844290 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos 1.asset
+  artifactKey: Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos 1.asset using Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fdb6d914f1d4b94699ef604eb89fdc') in 0.015577 seconds
+  Import took 0.026645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.806990 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Foto Do Delegado.asset
+  artifactKey: Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Foto Do Delegado.asset using Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbd4cc4d0e4dae2535ce1d24fd8b876') in 0.009591 seconds
+  Import took 0.020239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.674681 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Foto Do Delegado.asset
+  artifactKey: Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Foto Do Delegado.asset using Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282097105478999f08933afc2c1b07f9') in 0.004045 seconds
+  Import took 0.020156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.014017 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos 1.asset
+  artifactKey: Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos 1.asset using Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5425db600a343f5f79cdd91f42e58232') in 0.003297 seconds
+  Import took 0.022376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.722058 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset
+  artifactKey: Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset using Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7886cd37c554ae78b548f13ac30ace') in 0.008667 seconds
+  Import took 0.013195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.367740 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset
+  artifactKey: Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset using Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7968227fd88e07a2d080f2b11b26dd9b') in 0.008676 seconds
+  Import took 0.032862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.281593 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115a394c2bb7d2f2e8873bdf00cafacb') in 0.003741 seconds
+  Import took 0.049538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002943 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115a394c2bb7d2f2e8873bdf00cafacb') in 0.006052 seconds
+  Import took 0.012018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.168507 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos 1.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos 1.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5f1118247552f7ad7272d5f7585835') in 0.003164 seconds
+  Import took 0.019338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.688655 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b53d7d26171b35f9606c705e7fb0715') in 0.024518 seconds
+  Import took 0.031860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b53d7d26171b35f9606c705e7fb0715') in 0.003378 seconds
+  Import took 0.009370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.789016 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4cc36088f7711e99fef74413fbbe3be') in 0.003329 seconds
+  Import took 0.056779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005304 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4cc36088f7711e99fef74413fbbe3be') in 0.004094 seconds
+  Import took 0.009310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.219193 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset
+  artifactKey: Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset using Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7799f0dbe1e1307744272ef1652a59e') in 0.003252 seconds
+  Import took 0.031200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.799281 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Bloco De Notas.asset
+  artifactKey: Guid(43792d2f3c757034a88fdf07cfe2963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Bloco De Notas.asset using Guid(43792d2f3c757034a88fdf07cfe2963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5e712fc253b6838c90e17e210bbf7f') in 0.037871 seconds
+  Import took 0.071577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002286 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Bloco De Notas.asset
+  artifactKey: Guid(43792d2f3c757034a88fdf07cfe2963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Bloco De Notas.asset using Guid(43792d2f3c757034a88fdf07cfe2963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5e712fc253b6838c90e17e210bbf7f') in 0.003594 seconds
+  Import took 0.008901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.029103 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Policia 1.asset
+  artifactKey: Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Policia 1.asset using Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e840104ebf830493abddce4bd9b28f') in 0.008427 seconds
+  Import took 0.028805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.843704 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Rasura.asset
+  artifactKey: Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Rasura.asset using Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19626b2288a0f850332a95dff55e76b') in 0.018853 seconds
+  Import took 0.050895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.914495 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Rasura.asset
+  artifactKey: Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Rasura.asset using Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e410cfd72e46f4327e7a7509d4638c95') in 0.003374 seconds
+  Import took 0.021305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.155816 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d38259884e7f4d95afa8ce7f9130e29') in 0.010762 seconds
+  Import took 0.019220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001305 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d38259884e7f4d95afa8ce7f9130e29') in 0.002982 seconds
+  Import took 0.007324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.523877 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd394ab059c17613851d7870ff34de7') in 0.003447 seconds
+  Import took 0.022267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.198116 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cea93143b995f9126153768f99d0276') in 0.003079 seconds
+  Import took 0.033870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002319 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cea93143b995f9126153768f99d0276') in 0.003453 seconds
+  Import took 0.008165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.799321 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Rasura 1.asset
+  artifactKey: Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Rasura 1.asset using Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb06dd22f246e023198db3b16df86c9') in 0.009649 seconds
+  Import took 0.034233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.870631 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset
+  artifactKey: Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset using Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dec5f658b1b9a60b489ab125cd0f9c') in 0.014113 seconds
+  Import took 0.020583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001282 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset
+  artifactKey: Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset using Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dec5f658b1b9a60b489ab125cd0f9c') in 0.003583 seconds
+  Import took 0.008751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.437247 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset
+  artifactKey: Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset using Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88a6738c114d9c392ccc3d8378a9bcd') in 0.003286 seconds
+  Import took 0.025373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.012819 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset
+  artifactKey: Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset using Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8228580ada0b79962a5a83c335dc362') in 0.003790 seconds
+  Import took 0.019780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 260.147808 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias 1.asset
+  artifactKey: Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias 1.asset using Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c710a4fdea61c8dc2140b35a6e6372dc') in 0.006923 seconds
+  Import took 0.028361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002635 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias 1.asset
+  artifactKey: Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias 1.asset using Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c710a4fdea61c8dc2140b35a6e6372dc') in 0.003685 seconds
+  Import took 0.011801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.826360 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaCondolencia 1.prefab
+  artifactKey: Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaCondolencia 1.prefab using Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e662cd1b1d28791af3140db1791d87cd') in 0.042776 seconds
+  Import took 0.072525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.493202 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaAssumindoRelacionamento.prefab
+  artifactKey: Guid(8366bd7dce079c342a377bf1d9897800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaAssumindoRelacionamento.prefab using Guid(8366bd7dce079c342a377bf1d9897800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d0921992abf0f92d3e2cff62e104a8') in 0.017671 seconds
+  Import took 0.049673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.229728 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaAssumindoRelacionamento.prefab
+  artifactKey: Guid(8366bd7dce079c342a377bf1d9897800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaAssumindoRelacionamento.prefab using Guid(8366bd7dce079c342a377bf1d9897800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b108d96683d8f5add8a73db999cdf938') in 0.005091 seconds
+  Import took 0.010190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.538477 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias.asset
+  artifactKey: Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias.asset using Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e7acae34407b3a3bf3b9f59cef935e') in 0.015796 seconds
+  Import took 0.032241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.392497 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias.asset
+  artifactKey: Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias.asset using Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89cf17bf038a9fee81796f86ec3e7370') in 0.005100 seconds
+  Import took 0.009887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.756130 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaCondolencia.prefab
+  artifactKey: Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaCondolencia.prefab using Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544921a29a54eaf49d5212d36c0f10da') in 0.010864 seconds
+  Import took 0.015393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.300243 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaCondolencia 1.prefab
+  artifactKey: Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaCondolencia 1.prefab using Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98dff7727b79bfc72c3846527afbcb44') in 0.007170 seconds
+  Import took 0.013954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.972038 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Foto Do Delegado.prefab
+  artifactKey: Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Foto Do Delegado.prefab using Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a523e63fccfab6cbc6792e95b41676f1') in 0.007977 seconds
+  Import took 0.032888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.217797 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/FotoDoDelegado.prefab
+  artifactKey: Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/FotoDoDelegado.prefab using Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66eb66c2be29f9dfe2f5a81250a4555') in 0.011947 seconds
+  Import took 0.025631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.288325 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/FotoDoDelegado.prefab
+  artifactKey: Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/FotoDoDelegado.prefab using Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960299b02ccfcbb998342b5b66d395f0') in 0.005099 seconds
+  Import took 0.038379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.501373 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaCondolencia 1.prefab
+  artifactKey: Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabCartaCondolencia 1.prefab using Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd16afb9935fdbbd2dbbff5e33be12da') in 0.004938 seconds
+  Import took 0.021268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.690098 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/ListaDeFuncionarios.prefab
+  artifactKey: Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/ListaDeFuncionarios.prefab using Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6bde13177dab7da0fa47faf86bc6eb') in 0.011405 seconds
+  Import took 0.043646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.637420 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/ListaDeFuncionarios.prefab
+  artifactKey: Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/ListaDeFuncionarios.prefab using Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c442e51d1fe1bbed88b1db9ccf84a8c1') in 0.005368 seconds
+  Import took 0.045006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.635130 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeFuncionarios.prefab
+  artifactKey: Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeFuncionarios.prefab using Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83109bf6e79d6a3a8c605691043419e7') in 0.013378 seconds
+  Import took 0.046083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.855391 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabFotoDoDelegado.prefab
+  artifactKey: Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabFotoDoDelegado.prefab using Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472740bbd551d0fad1af1778fb9d968b') in 0.012895 seconds
+  Import took 0.031071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.771508 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeFuncionarios 1.prefab
+  artifactKey: Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeFuncionarios 1.prefab using Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d47935ea287a20a91c439c2cfc25de8') in 0.010723 seconds
+  Import took 0.045632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.357539 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeMortos.prefab
+  artifactKey: Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeMortos.prefab using Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3968004ccfae951f5a42621808eb2790') in 0.009975 seconds
+  Import took 0.019312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.979684 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeMortos.prefab
+  artifactKey: Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeMortos.prefab using Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5c63002724284b5fd6f902c87c6b3bc') in 0.005104 seconds
+  Import took 0.044496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.673936 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeMortos 1.prefab
+  artifactKey: Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabListaDeMortos 1.prefab using Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28db740c115b4f5325ede3f2c0badabe') in 0.013898 seconds
+  Import took 0.046423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.015927 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPolicia.prefab
+  artifactKey: Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPolicia.prefab using Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd0e0a93a9945fb0fe69969be4e0792') in 0.011493 seconds
+  Import took 0.017958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.967021 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPolicia.prefab
+  artifactKey: Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPolicia.prefab using Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97fc65b986e082de563cde0356412710') in 0.006626 seconds
+  Import took 0.039036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.016356 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPolicia 1.prefab
+  artifactKey: Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPolicia 1.prefab using Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644838a4d996b02316a01a610ccb433a') in 0.011771 seconds
+  Import took 0.044440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.474515 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPublicarMateria.prefab
+  artifactKey: Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPublicarMateria.prefab using Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa97fc211f2d9003ca4e5f03d5ffa926') in 0.011324 seconds
+  Import took 0.032441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008223 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPublicarMateria.prefab
+  artifactKey: Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPublicarMateria.prefab using Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa97fc211f2d9003ca4e5f03d5ffa926') in 0.005953 seconds
+  Import took 0.010124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.905054 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPublicarMateria.prefab
+  artifactKey: Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPublicarMateria.prefab using Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bedc46462a0e78ed7cf05c00753a4ae2') in 0.005466 seconds
+  Import took 0.011598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.112866 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPublicarMateria 1.prefab
+  artifactKey: Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabPublicarMateria 1.prefab using Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9404a5eca60e155fa7ff7c12b0b6764c') in 0.011470 seconds
+  Import took 0.025163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.922546 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabRasura.prefab
+  artifactKey: Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabRasura.prefab using Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b0a12b9342e5ba05180d1a8de4e555') in 0.010832 seconds
+  Import took 0.024395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.854468 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabRasura.prefab
+  artifactKey: Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/PrefabRasura.prefab using Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc72dae8db0cfcf573916fcb5eba8925') in 0.005781 seconds
+  Import took 0.030373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.466669 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_BlocoDeNotas.prefab
+  artifactKey: Guid(04a36a7140cbc964e9d2b932077460ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_BlocoDeNotas.prefab using Guid(04a36a7140cbc964e9d2b932077460ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ed6cdff0e6fcf3a6a0868c5270182a') in 0.009900 seconds
+  Import took 0.024268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.499827 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CartaAssumindoRelacionamento.prefab
+  artifactKey: Guid(8366bd7dce079c342a377bf1d9897800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CartaAssumindoRelacionamento.prefab using Guid(8366bd7dce079c342a377bf1d9897800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12918e8d36e1b506936694a5f2c4f3aa') in 0.010357 seconds
+  Import took 0.044078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.038167 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CartaCondolencia.prefab
+  artifactKey: Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CartaCondolencia.prefab using Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc5cf0ac9154332b5120d22f8df405f') in 0.012123 seconds
+  Import took 0.049944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CartaCondolencia.prefab
+  artifactKey: Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CartaCondolencia.prefab using Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc5cf0ac9154332b5120d22f8df405f') in 0.004793 seconds
+  Import took 0.009397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.935873 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_FotoDoDelegado.prefab
+  artifactKey: Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_FotoDoDelegado.prefab using Guid(3301410d0e325014ab25606194cd541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd07b99424e978e258764fa93dd8cca34') in 0.009965 seconds
+  Import took 0.035682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.893272 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeFuncionarios.prefab
+  artifactKey: Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeFuncionarios.prefab using Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3dd762ba2e285cff2b5d0601a5f213d') in 0.012476 seconds
+  Import took 0.031955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.038138 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeMortos.prefab
+  artifactKey: Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeMortos.prefab using Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c61c212e22a11ad67c61b76f565edc2') in 0.010489 seconds
+  Import took 0.017186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.934232 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_Policia.prefab
+  artifactKey: Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_Policia.prefab using Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99301f73bf7462321edd24a0fed4c406') in 0.010427 seconds
+  Import took 0.015880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.635782 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_PublicarMateria.prefab
+  artifactKey: Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_PublicarMateria.prefab using Guid(8d121602d9b9f4e44accea5856cac1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef651393d7640e6a84e9ae2b2e25fe48') in 0.011996 seconds
+  Import took 0.026673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.262933 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_Rasura.prefab
+  artifactKey: Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_Rasura.prefab using Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e752056c62883674feb76220c5bbcc') in 0.010072 seconds
+  Import took 0.027910 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001515 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3177.
+Total: 4.206300 ms (FindLiveObjects: 0.381200 ms CreateObjectMapping: 0.093400 ms MarkObjects: 2.512000 ms  DeleteObjects: 1.217800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001575 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3179.
+Total: 6.149300 ms (FindLiveObjects: 0.377800 ms CreateObjectMapping: 0.095600 ms MarkObjects: 3.754400 ms  DeleteObjects: 1.919300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001485 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.973 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3181.
+Total: 5.271600 ms (FindLiveObjects: 0.384300 ms CreateObjectMapping: 0.111400 ms MarkObjects: 3.117500 ms  DeleteObjects: 1.656100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001341 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3183.
+Total: 5.014600 ms (FindLiveObjects: 0.374500 ms CreateObjectMapping: 0.099500 ms MarkObjects: 3.082100 ms  DeleteObjects: 1.457000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001929 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.034 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3185.
+Total: 6.221700 ms (FindLiveObjects: 0.495400 ms CreateObjectMapping: 0.124500 ms MarkObjects: 3.720900 ms  DeleteObjects: 1.879000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001456 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3187.
+Total: 5.141300 ms (FindLiveObjects: 0.388400 ms CreateObjectMapping: 0.095400 ms MarkObjects: 3.058900 ms  DeleteObjects: 1.596100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001347 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.945 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3189.
+Total: 4.842300 ms (FindLiveObjects: 0.365100 ms CreateObjectMapping: 0.102300 ms MarkObjects: 2.948300 ms  DeleteObjects: 1.424400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002048 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.006 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3191.
+Total: 5.307100 ms (FindLiveObjects: 0.375400 ms CreateObjectMapping: 0.097300 ms MarkObjects: 3.178700 ms  DeleteObjects: 1.653800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001473 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3193.
+Total: 5.348500 ms (FindLiveObjects: 0.375900 ms CreateObjectMapping: 0.092300 ms MarkObjects: 3.208500 ms  DeleteObjects: 1.669300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.984 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3195.
+Total: 4.685800 ms (FindLiveObjects: 0.358100 ms CreateObjectMapping: 0.098100 ms MarkObjects: 2.735900 ms  DeleteObjects: 1.491900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3197.
+Total: 5.449200 ms (FindLiveObjects: 0.375400 ms CreateObjectMapping: 0.100300 ms MarkObjects: 3.275800 ms  DeleteObjects: 1.695000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001391 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.034 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 143.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3199.
+Total: 5.367900 ms (FindLiveObjects: 0.451900 ms CreateObjectMapping: 0.109500 ms MarkObjects: 3.039800 ms  DeleteObjects: 1.764900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3201.
+Total: 4.690900 ms (FindLiveObjects: 0.363900 ms CreateObjectMapping: 0.092700 ms MarkObjects: 2.835100 ms  DeleteObjects: 1.397400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002176 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3203.
+Total: 7.405000 ms (FindLiveObjects: 1.211700 ms CreateObjectMapping: 0.353200 ms MarkObjects: 3.832200 ms  DeleteObjects: 2.005200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001610 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.210 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 143.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3205.
+Total: 6.659800 ms (FindLiveObjects: 0.733000 ms CreateObjectMapping: 0.373100 ms MarkObjects: 4.072300 ms  DeleteObjects: 1.477200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 143.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 8.685000 ms (FindLiveObjects: 0.364200 ms CreateObjectMapping: 0.085300 ms MarkObjects: 3.977900 ms  DeleteObjects: 4.254200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
