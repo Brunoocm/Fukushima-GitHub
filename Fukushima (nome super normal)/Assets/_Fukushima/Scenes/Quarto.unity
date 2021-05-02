@@ -381,6 +381,10 @@ PrefabInstance:
       propertyPath: m_BlocksRaycasts
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 405858581655688892, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 409956517577907624, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -560,6 +564,10 @@ PrefabInstance:
     - target: {fileID: 759722934895064263, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 872300354952185777, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 1018746532976222307, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_Alpha
@@ -1013,6 +1021,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1939131007538905156, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
     - target: {fileID: 1981048920580758193, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_Alpha
       value: 0
@@ -1313,6 +1325,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2713029436511011321, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 2757517248258569277, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -1488,6 +1504,10 @@ PrefabInstance:
     - target: {fileID: 3784676765784048804, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807707196618799178, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 3824479818909794912, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1848,6 +1868,10 @@ PrefabInstance:
     - target: {fileID: 5024109404910904492, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049443204537083107, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5093456867566795692, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2828,6 +2852,10 @@ PrefabInstance:
     - target: {fileID: 8781480141481691864, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8793931019177758382, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 8818397047712975961, guid: 5d2b2fb05a15c3c4fa0605765b8fa110, type: 3}
       propertyPath: m_Alpha
@@ -6589,7 +6617,7 @@ GameObject:
   - component: {fileID: 1170419813}
   - component: {fileID: 1170419812}
   m_Layer: 7
-  m_Name: Carta De Condolencia
+  m_Name: Lista de funcionarios
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8321,7 +8349,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1716163981
 Transform:
   m_ObjectHideFlags: 0
