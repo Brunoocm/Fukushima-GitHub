@@ -12,7 +12,6 @@ public class PickUpItem : InteractableBase
     {
         item.hasObjectItem = false;
     }
-    //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa Otario
     public override void OnInteract()
     {
         base.OnInteract();
