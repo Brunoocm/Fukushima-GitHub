@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3529674449124952522}
   - component: {fileID: 5730813067779690553}
   m_Layer: 5
-  m_Name: ListaDeFuncionarios
+  m_Name: Prefab_ListaDeFuncionarios
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
