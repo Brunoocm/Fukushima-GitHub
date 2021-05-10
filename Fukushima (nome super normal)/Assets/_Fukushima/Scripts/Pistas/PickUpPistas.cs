@@ -138,7 +138,7 @@ public class PickUpPistas : InteractableBase
             if (index < num && timerFala <= 0)
             {
                 TextForPistas.text = playerFala[index];
-                timerFala = 2;
+                timerFala = 3;
 
 
                 index++;
