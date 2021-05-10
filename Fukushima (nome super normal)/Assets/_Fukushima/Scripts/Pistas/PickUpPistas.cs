@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class PickUpPistas : InteractableBase
 {
@@ -8,6 +9,11 @@ public class PickUpPistas : InteractableBase
     [Header("Inventory Data")]
     public GameObject prefabPistas;
     public InteractionUIPanel UIText;
+
+    public string[] playerFala;
+    private int index = 0;
+    private bool set;
+    private float timerFala;
 
 
     private Camera mainCam;
@@ -17,10 +23,16 @@ public class PickUpPistas : InteractableBase
     private bool examineMode = false;
     private bool umaVez;
     private PistasSpawn pistaScript;
+    TextMeshProUGUI TextForPistas;
+
 
     Vector3 originaPosition;
     Vector3 originalRotation;
+    private void Awake()
+    {
+        TextForPistas = GameObject.Find("TextForPistas").GetComponentInChildren<TextMeshProUGUI>();
 
+    }
     private void Start()
     {
         pistaScript = FindObjectOfType<PistasSpawn>();
@@ -46,6 +58,8 @@ public class PickUpPistas : InteractableBase
         TurnObject();
 
         ExitExamineMode();
+
+        timer();
     }
 
     void Spawn()
@@ -56,7 +70,9 @@ public class PickUpPistas : InteractableBase
             {
                 GameObject spawn = Instantiate(prefabPistas, pistaScript.pistasPivotSpawner[i].transform.position, pistaScript.pistasPivotSpawner[i].transform.rotation);
                 spawn.transform.parent = pistaScript.pistasPivotSpawner[i].transform;
+                pistaScript.SpawnPista();
 
+                set = true;
             }
             umaVez = true;
         }
@@ -112,4 +128,32 @@ public class PickUpPistas : InteractableBase
 
     }
 
+
+    void timer()
+    {
+        int num = playerFala.Length;
+
+        if (set)
+        {
+            if (index < num && timerFala <= 0)
+            {
+                TextForPistas.text = playerFala[index];
+                timerFala = 2;
+
+
+                index++;
+
+
+            }
+            else if(index == num && timerFala <= 0)
+            {
+                set = false;
+                TextForPistas.text = "";
+            }
+
+            timerFala -= Time.deltaTime;
+        }
+        
+
+    }
 }

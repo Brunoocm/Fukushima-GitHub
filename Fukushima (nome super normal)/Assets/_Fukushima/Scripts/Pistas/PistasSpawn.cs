@@ -1,16 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class PistasSpawn : MonoBehaviour
 {
     public GameObject[] pistasPivotSpawner;
+
+    Animator pistaAnimator; 
     void Start()
     {
 
         pistasPivotSpawner = GameObject.FindGameObjectsWithTag("PistasPivotSpawn");
+        pistaAnimator = GameObject.Find("LampadaPista").GetComponent<Animator>();
 
-       
+
+
     }
 
     void Update()
@@ -20,7 +25,6 @@ public class PistasSpawn : MonoBehaviour
 
     public void SpawnPista()
     {
-     
-
+        pistaAnimator.SetTrigger("lampada");
     }
 }
