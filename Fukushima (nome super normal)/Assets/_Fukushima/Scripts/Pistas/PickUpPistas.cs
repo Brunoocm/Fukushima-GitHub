@@ -10,7 +10,7 @@ public class PickUpPistas : InteractableBase
     public GameObject prefabPistas;
     public InteractionUIPanel UIText;
 
-    public string[] playerFala;
+    [TextArea] public string[] playerFala;
     private int index = 0;
     private bool set;
     private float timerFala;

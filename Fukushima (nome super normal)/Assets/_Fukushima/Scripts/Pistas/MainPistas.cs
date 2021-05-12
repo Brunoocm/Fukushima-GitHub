@@ -53,7 +53,9 @@ public class MainPistas : MonoBehaviour
             }
 
         }
+        MissionEscritorioMarido.gameObject.SetActive(false);
         return true;
+      
 
     }
     private bool BoolEscritorioDelegado()
@@ -71,6 +73,8 @@ public class MainPistas : MonoBehaviour
             }
 
         }
+        MissionEscritorioDelegado.gameObject.SetActive(false);
+
         return true;
 
     }
@@ -108,6 +112,8 @@ public class MainPistas : MonoBehaviour
             }
 
         }
+        MissionCasa.gameObject.SetActive(false);
+
         return true;
 
     }
