@@ -79,6 +79,12 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
 
     }
 
+    public void setTrueDelegado()
+    {
+        delegaciaEnabled = true;
+
+    }
+
     public void OnPointerDown(PointerEventData eventData)
     {
         if (localName == "Escritorio") Escritorio();
