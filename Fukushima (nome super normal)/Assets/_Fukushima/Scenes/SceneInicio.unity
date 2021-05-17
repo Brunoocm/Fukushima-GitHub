@@ -1216,11 +1216,12 @@ MonoBehaviour:
   isInteractable: 1
   hasMission: 0
   tooltipMessage: Atender
+  hasPista: 0
   prefabPistas: {fileID: 2961236171788460603, guid: 04a36a7140cbc964e9d2b932077460ed, type: 3}
   UIText: {fileID: 1668246339}
   playerFala:
-  - "N\xE3o deve ser nada"
-  - preciso voltar a dormir.
+  - Ligando a essa hora?
+  - "preciso voltar a dormir, amanh\xE3  eu resolvo isso"
   hasEvent: 1
   m_Event:
     m_PersistentCalls:
@@ -3827,6 +3828,7 @@ MonoBehaviour:
   isInteractable: 1
   hasMission: 0
   tooltipMessage: Carta
+  hasPista: 0
   prefabPistas: {fileID: 2961236171788460603, guid: 04a36a7140cbc964e9d2b932077460ed, type: 3}
   UIText: {fileID: 1668246339}
   playerFala:
