@@ -418,8 +418,8 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: Passos
     clip: {fileID: 8300000, guid: 8399e72f9b8d3344388b67f1be739090, type: 3}
-    volume: 0.688
-    pitch: 0.64
+    volume: 0.115
+    pitch: 0.29
     loop: 0
     source: {fileID: 0}
   - name: AbrindoLivro
