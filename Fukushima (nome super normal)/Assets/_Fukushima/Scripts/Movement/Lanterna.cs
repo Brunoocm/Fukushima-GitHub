@@ -20,8 +20,14 @@ public class Lanterna : MonoBehaviour
     void Update()
     {
         luz.intensity = ligada ? 0 : intensidade;
-        if(Input.GetKeyDown(KeyCode.F)) ligada = ligada ? false : true;
- 
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+
+            ligada = ligada ? false : true; 
+            FindObjectOfType<AudioManager>().Play("Lanterna");
+
+        }
+
         AtualizarLuz();
     }
 

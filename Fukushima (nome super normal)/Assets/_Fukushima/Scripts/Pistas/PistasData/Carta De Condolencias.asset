@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pistaName: "Carta De Condol\xEAncias"
   description: "Nome: Carta De Condol\xEAncias\n\nCarta enviada pelo delegado."
-  objectImage: {fileID: 21300000, guid: aa4a4b4630cda9241bb75c4b2f03ce29, type: 3}
+  objectImage: {fileID: 21300000, guid: d2de7a747b824a24f89e48ee916f0fa0, type: 3}
   acontecendo: 0
   motivo: 1
   assassino: 0
