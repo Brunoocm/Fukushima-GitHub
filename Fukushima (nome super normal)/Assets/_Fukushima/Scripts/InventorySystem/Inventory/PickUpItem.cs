@@ -17,8 +17,10 @@ public class PickUpItem : InteractableBase
     private float timerFala;
     TextMeshProUGUI TextForPistas;
 
+    private MeshRenderer mesh;
     private void Start()
     {
+        mesh = GetComponent<MeshRenderer>();
         TextForPistas = GameObject.Find("TextForPistas").GetComponentInChildren<TextMeshProUGUI>();
 
         pistaScript = FindObjectOfType<PistasSpawn>();
@@ -26,19 +28,26 @@ public class PickUpItem : InteractableBase
         item.hasObjectItem = false;
 
     }
+
+    void Update()
+    {
+        timer();
+
+    }
     public override void OnInteract()
     {
         base.OnInteract();
+        StartCoroutine(TrueVoid());
 
-        if(item)
+        if (item)
         {
             inventory.AddItem(item, 1);
-            Destroy(gameObject);
+            //Destroy(gameObject);
             print(item.objectName);
             pistaScript.LocalAtualizado();
+            mesh.enabled = false;
 
 
-            StartCoroutine(TrueVoid());
         }
 
         if (base.HasMission)
@@ -66,7 +75,7 @@ public class PickUpItem : InteractableBase
             if (index < num && timerFala <= 0)
             {
                 TextForPistas.text = playerFala[index];
-                timerFala = 3;
+                timerFala = 5;
 
 
                 index++;
@@ -77,6 +86,7 @@ public class PickUpItem : InteractableBase
             {
                 set = false;
                 TextForPistas.text = "";
+                Destroy(gameObject);
             }
 
             timerFala -= Time.deltaTime;

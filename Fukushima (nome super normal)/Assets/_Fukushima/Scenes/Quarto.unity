@@ -5972,7 +5972,7 @@ MonoBehaviour:
   isInteractable: 1
   hasMission: 0
   tooltipMessage: Carta
-  hasPista: 0
+  hasPista: 1
   prefabPistas: {fileID: 1900866989209497061, guid: 845ccafa40f5c8848acf55da2fa98489, type: 3}
   UIText: {fileID: 594649802}
   playerFala: []
@@ -8842,6 +8842,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1259398211}
     m_Modifications:
+    - target: {fileID: 1182682751215708928, guid: 1d50d90cb739c974387a64a716bfe75b, type: 3}
+      propertyPath: playerFala.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1182682751215708928, guid: 1d50d90cb739c974387a64a716bfe75b, type: 3}
+      propertyPath: playerFala.Array.data[0]
+      value: 'No escritorio do meu marido podem haver mais provas. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1182682751215708928, guid: 1d50d90cb739c974387a64a716bfe75b, type: 3}
+      propertyPath: playerFala.Array.data[1]
+      value: 'O unico jeito de incriminar esse delegado '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1182682751215708928, guid: 1d50d90cb739c974387a64a716bfe75b, type: 3}
+      propertyPath: playerFala.Array.data[2]
+      value: "\xE9 achando as respostas dessas questoes"
+      objectReference: {fileID: 0}
     - target: {fileID: 1182682751215708931, guid: 1d50d90cb739c974387a64a716bfe75b, type: 3}
       propertyPath: m_RootOrder
       value: 0
