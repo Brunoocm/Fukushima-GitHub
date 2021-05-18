@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 863ffce1d1a3ceb44a092b40e0da2ff8, type: 3}
+  m_Name: Post-it
+  m_EditorClassIdentifier: 
+  pistaName: Post-it
+  description: 'Nome: Post-it
+
+
+    escontrada no quarto principal.'
+  objectImage: {fileID: 21300000, guid: 2f55fecd4df94d04eb9c3c385e6030cd, type: 3}
+  acontecendo: 0
+  motivo: 0
+  assassino: 1
+  quartel: 0
