@@ -1,24 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.PackageManager;
 using UnityEngine;
-using UnityEngine.EventSystems;
 
-public class MapaChange : MonoBehaviour, IPointerDownHandler
+public class MapaChange : MonoBehaviour
 {
-    [SerializeField] GameObject quartoButton;
-    [SerializeField] GameObject escritorioButton;
-    [SerializeField] GameObject DelegadoButton;
-
     [SerializeField] GameObject quarto;
     [SerializeField] GameObject escritorio;
     [SerializeField] GameObject Delegado;
-
-    public ItemObject chave;
-    public static bool delegaciaEnabled;
-
-    private bool selected;
-    private string localName;
 
     void Start()
     {
@@ -27,29 +15,9 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
 
     void Update()
     {
-        if (chave.hasObjectItem)
-        {
-            escritorioButton.gameObject.SetActive(true);
-        }
-        else
-        {
-            escritorioButton.gameObject.SetActive(false);
-
-        }
-
-        if (delegaciaEnabled)
-        {
-            DelegadoButton.gameObject.SetActive(true);
-
-        }
-        else
-        {
-            DelegadoButton.gameObject.SetActive(false);
-
-        }
     }
 
-    public void Casa()
+    public void TPlocal()
     {
         quarto.SetActive(true);
         escritorio.SetActive(false);
@@ -59,7 +27,17 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
 
 
     }
-    public void Delegacia()
+    public void TPlocal2()
+    {
+        quarto.SetActive(false);
+        Delegado.SetActive(false);
+        escritorio.SetActive(true);
+        
+        
+
+
+    }   
+    public void TPlocal3()
     {
         quarto.SetActive(false);
         Delegado.SetActive(true);
@@ -68,36 +46,5 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
         
 
 
-    }   
-    public void Escritorio()
-    {
-        quarto.SetActive(false);
-        Delegado.SetActive(false);
-        escritorio.SetActive(true);
-           
-
-
-    }
-
-    public void setTrueDelegado()
-    {
-        delegaciaEnabled = true;
-
-    }
-
-    public void OnPointerDown(PointerEventData eventData)
-    {
-        if (localName == "Escritorio") Escritorio();
-        if (localName == "Casa") Casa();
-        if (localName == "Delegacia") Delegacia();
-        else
-        {
-
-        }
-    }
-
-    public void LocalChange(string name)
-    {
-        localName = name;
     }
 }

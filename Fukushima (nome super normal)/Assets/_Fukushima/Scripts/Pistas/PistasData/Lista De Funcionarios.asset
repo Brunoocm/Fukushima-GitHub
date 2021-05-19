@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pistaName: Lista De Funcionarios
   description: "Nome: Lista De Funcion\xE1rios\n\nCarta enviada pelo delegado."
-  objectImage: {fileID: 21300000, guid: be37c0f6904d42f4a92ff3f4f121d41a, type: 3}
+  objectImage: {fileID: 21300000, guid: aa4a4b4630cda9241bb75c4b2f03ce29, type: 3}
   acontecendo: 1
   motivo: 0
   assassino: 0

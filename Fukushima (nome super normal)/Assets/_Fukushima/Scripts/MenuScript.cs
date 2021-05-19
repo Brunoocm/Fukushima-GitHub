@@ -32,10 +32,5 @@ public class MenuScript : MonoBehaviour
         }
     }
 
-    public void LoadSceneLocal(string name)
-    {
-        SceneManager.LoadScene(name);
-
-    }
  
 }
