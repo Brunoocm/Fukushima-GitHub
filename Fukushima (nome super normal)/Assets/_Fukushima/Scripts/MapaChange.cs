@@ -6,6 +6,10 @@ using UnityEngine.EventSystems;
 
 public class MapaChange : MonoBehaviour, IPointerDownHandler
 {
+    public Transform posQuarto;
+    public Transform posEscritorio;
+    public Transform posDelegacia;
+    
     [SerializeField] GameObject quartoButton;
     [SerializeField] GameObject escritorioButton;
     [SerializeField] GameObject DelegadoButton;
@@ -19,10 +23,11 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
 
     private bool selected;
     private string localName;
+    GameObject player;
 
     void Start()
     {
-
+        player = GameObject.FindWithTag("Player");
     }
 
     void Update()
@@ -55,7 +60,7 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
         escritorio.SetActive(false);
         Delegado.SetActive(false);
 
-
+        player.transform.position = posQuarto.transform.position;
 
 
     }
@@ -64,17 +69,19 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
         quarto.SetActive(false);
         Delegado.SetActive(true);
         escritorio.SetActive(false);
-        
-        
+
+        player.transform.position = posDelegacia.transform.position;
 
 
-    }   
+
+    }
     public void Escritorio()
     {
         quarto.SetActive(false);
         Delegado.SetActive(false);
         escritorio.SetActive(true);
-           
+
+        player.transform.position = posEscritorio.transform.position;
 
 
     }
