@@ -3,7 +3,37 @@ guid: 67623b597ed3de84e9f1688700dc3d71
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRUSCHED ALUMINUM
+    second: {fileID: 2100000, guid: a2dfa104842e082439e33b000867fda2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRUSCHED_COPPER
+    second: {fileID: 2100000, guid: 08f9d310e588bf746ae9c063ea7ea842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FABRIC
+    second: {fileID: 2100000, guid: c9b141ed9c7e66045b7614ab18582f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLOOR
+    second: {fileID: 2100000, guid: 30eca97c997c37a439b5df0f07601a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LAMP_SHADE
+    second: {fileID: 2100000, guid: c36dcf891063f4844a36cb343cfbf46d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OAK
+    second: {fileID: 2100000, guid: cd8682c98617401478bf249fa10ecc59, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

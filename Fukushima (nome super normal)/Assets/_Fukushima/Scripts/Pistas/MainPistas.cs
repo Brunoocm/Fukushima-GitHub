@@ -38,6 +38,7 @@ public class MainPistas : MonoBehaviour
         //mainQuartel = BoolQuartelG();
         mainCasa = BoolCasa();
     }
+
     private bool BoolEscritorioMarido()
     {
         escritorioMarido = new GameObject[MissionEscritorioMarido.transform.childCount];
