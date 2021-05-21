@@ -1490,16 +1490,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3366305536099043920, guid: f79175a9baaf5b8418aea83c4636aa67, type: 3}
-      propertyPath: slashTime
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3366305536099043920, guid: f79175a9baaf5b8418aea83c4636aa67, type: 3}
-      propertyPath: textToShow
-      value: 'oi
-
-'
-      objectReference: {fileID: 0}
     - target: {fileID: 7139885677261280790, guid: f79175a9baaf5b8418aea83c4636aa67, type: 3}
       propertyPath: m_Name
       value: Brett Table Lamp
