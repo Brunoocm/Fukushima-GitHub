@@ -56,9 +56,9 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
 
     public void Casa()
     {
-        quarto.SetActive(true);
-        escritorio.SetActive(false);
-        Delegado.SetActive(false);
+        //quarto.SetActive(true);
+        //escritorio.SetActive(false);
+        //Delegado.SetActive(false);
 
         player.transform.position = posQuarto.transform.position;
 
@@ -66,9 +66,9 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
     }
     public void Delegacia()
     {
-        quarto.SetActive(false);
-        Delegado.SetActive(true);
-        escritorio.SetActive(false);
+        //quarto.SetActive(false);
+        //Delegado.SetActive(true);
+        //escritorio.SetActive(false);
 
         player.transform.position = posDelegacia.transform.position;
 
@@ -77,9 +77,9 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
     }
     public void Escritorio()
     {
-        quarto.SetActive(false);
-        Delegado.SetActive(false);
-        escritorio.SetActive(true);
+        //quarto.SetActive(false);
+        //Delegado.SetActive(false);
+        //escritorio.SetActive(true);
 
         player.transform.position = posEscritorio.transform.position;
 
