@@ -1,0 +1,290 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'pt' Physical Memory: 14267 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/Fukushima-GitHub/Git/Fukushima (nome super normal)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50564
+Successfully changed project path to: D:/Unity/Fukushima-GitHub/Git/Fukushima (nome super normal)
+D:/Unity/Fukushima-GitHub/Git/Fukushima (nome super normal)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 73.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Fukushima-GitHub/Git/Fukushima (nome super normal)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002550 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 71.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.773 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001777 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 417.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.811 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2916 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.9 MB.
+System memory in use after: 167.5 MB.
+
+Unloading 120 unused Assets to reduce memory usage. Loaded Objects now: 3345.
+Total: 4.785000 ms (FindLiveObjects: 0.367000 ms CreateObjectMapping: 0.106600 ms MarkObjects: 3.198600 ms  DeleteObjects: 1.111300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Fukushima/Prefabs/MesaPuzzle.prefab
+  artifactKey: Guid(d7522f67807c0ce4886ffede2d0bf10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Prefabs/MesaPuzzle.prefab using Guid(d7522f67807c0ce4886ffede2d0bf10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5707f8c93a5282f0a5af487e1505762') in 0.287731 seconds
+  Import took 0.294320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.749211 seconds.
+  path: Assets/_Fukushima/Scenes/Quarto.unity
+  artifactKey: Guid(ea9a29043f9897f439c3b9b2bbd0d640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scenes/Quarto.unity using Guid(ea9a29043f9897f439c3b9b2bbd0d640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79b73577ae4e53e3aa292adc0241adf1') in 0.009148 seconds
+  Import took 0.015273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1118.264644 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos
+  artifactKey: Guid(784b14a18753b9c41beda9066f96b061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos using Guid(784b14a18753b9c41beda9066f96b061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd7c1b7fc25a0ef89be1fed27fb8fdc') in 0.007103 seconds
+  Import took 0.012188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 761.496918 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan.fbx
+  artifactKey: Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan.fbx using Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99ab43055540e3cce845594293d972e') in 0.421401 seconds
+  Import took 0.426900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.037144 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan.fbx
+  artifactKey: Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan.fbx using Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b8ff6f8d6409d124c249e0d4abd029') in 0.283739 seconds
+  Import took 0.289373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.090315 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan.fbx
+  artifactKey: Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan.fbx using Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5a4fcd278d63ee650b7dd7490632af') in 0.264033 seconds
+  Import took 0.269487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.329208 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan.fbx
+  artifactKey: Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan.fbx using Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e998f0d5684e4e890747e04360d890') in 0.319094 seconds
+  Import took 0.326121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.641462 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan
+  artifactKey: Guid(b72f65ab4ef860d43bf03cf9895fe0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan using Guid(b72f65ab4ef860d43bf03cf9895fe0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4835335c0223b14a83e03a5aff8eaa73') in 0.003418 seconds
+  Import took 0.009521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.694762 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan/Butsudan.fbx
+  artifactKey: Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan/Butsudan.fbx using Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3edd46b9d3dbf12178d9ee0bc83f56c') in 0.284831 seconds
+  Import took 0.321318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.599547 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan/Butsudan.fbx
+  artifactKey: Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan/Butsudan.fbx using Guid(48b957d77738eef4a9cdb38fdf1a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4901cc26fa974e88ac81df7cf6988c7') in 0.292705 seconds
+  Import took 0.298904 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.308 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.9 MB.
+System memory in use after: 165.5 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3429.
+Total: 6.138300 ms (FindLiveObjects: 0.601100 ms CreateObjectMapping: 0.370900 ms MarkObjects: 4.007000 ms  DeleteObjects: 1.157300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.1 MB.
+System memory in use after: 165.6 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3431.
+Total: 5.039600 ms (FindLiveObjects: 0.368900 ms CreateObjectMapping: 0.102700 ms MarkObjects: 3.225600 ms  DeleteObjects: 1.340100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001456 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.095 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.1 MB.
+System memory in use after: 165.6 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3433.
+Total: 9.347800 ms (FindLiveObjects: 0.986300 ms CreateObjectMapping: 1.025700 ms MarkObjects: 4.534800 ms  DeleteObjects: 2.798600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002256 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.163 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
