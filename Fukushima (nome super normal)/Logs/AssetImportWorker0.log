@@ -13638,3 +13638,11 @@ Received Import Request.
 Start importing Assets/_Fukushima/Scenes/Quarto.unity using Guid(ea9a29043f9897f439c3b9b2bbd0d640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f333875a188d559b662b3c2ae2e065') in 0.002453 seconds
   Import took 0.007942 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 152.391108 seconds.
+  path: Assets/_Fukushima/Scenes/Quarto.unity
+  artifactKey: Guid(ea9a29043f9897f439c3b9b2bbd0d640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scenes/Quarto.unity using Guid(ea9a29043f9897f439c3b9b2bbd0d640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e5945ad8a94523e73331ab4d2a1010') in 0.002428 seconds
+  Import took 0.053089 seconds .
+
