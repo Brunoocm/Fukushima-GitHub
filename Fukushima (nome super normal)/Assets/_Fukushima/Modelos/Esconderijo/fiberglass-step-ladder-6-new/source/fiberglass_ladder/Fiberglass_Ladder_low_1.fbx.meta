@@ -3,7 +3,12 @@ guid: 84b021dddf68b1746b67684f25025c7c
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Fiberglass_Ladder
+    second: {fileID: 2100000, guid: 7820063516a87c14991b0f14fa57fe04, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,17 @@ guid: 43cf9b030f1cef84e936cd7f490c8f0b
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Folding_Chair
+    second: {fileID: 2100000, guid: 9b6325054cff31b499d013aec3a47855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Folding_Chair_Folded
+    second: {fileID: 2100000, guid: 84d8ca6ab9bb72c40b4f43b2f3afde3f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

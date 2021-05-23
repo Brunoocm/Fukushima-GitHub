@@ -3,7 +3,37 @@ guid: 6bf685939aeaeef45a2a291828c47eaf
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Light_Fixture
+    second: {fileID: 2100000, guid: a8dfb77ca44dd6940a0bc02ebd75dc53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Pegboard
+    second: {fileID: 2100000, guid: 11c42bfa81beb964d85d0e3a92481f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Tool_Cabinet
+    second: {fileID: 2100000, guid: 8cb516249e013bb48be6a256ee7217fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Tools
+    second: {fileID: 2100000, guid: 3a6aac91b343ae54ebcbbba0969f4125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Vice
+    second: {fileID: 2100000, guid: f86a787476e70e3499fa142cff608711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Workbench
+    second: {fileID: 2100000, guid: 6e47728d3b3ccd948b7dd5cb46094c09, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -34,7 +64,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.85
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -85,7 +115,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.0085
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

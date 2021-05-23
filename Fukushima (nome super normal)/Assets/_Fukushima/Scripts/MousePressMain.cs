@@ -9,14 +9,19 @@ public class MousePressMain : MonoBehaviour
 
     public GameObject[] objects;
 
+    Animator anim;
     void Start()
     {
-
+        anim = GetComponent<Animator>();
     }
 
     void Update()
     {
-        oi = TaCerto();
+        if(TaCerto())
+        {
+            anim.SetTrigger("Abrir");
+            print("foooi");
+        }
 
 
     }
